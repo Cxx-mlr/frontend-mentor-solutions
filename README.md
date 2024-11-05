@@ -6,6 +6,19 @@ Welcome to my Frontend Mentor Solutions repository! This repository showcases my
 
 Each submodule in this repository corresponds to a specific Frontend Mentor challenge. By breaking down each project into its own independent repository, I can maintain dedicated documentation, manage unique workflows, and track progress for each solution.
 
+## Challenges
+
+Below is a list of the challenges I've completed. You can view each solution live via the provided links:
+
+| Challenge Name       | Live Demo                                       |
+|----------------------|-------------------------------------------------|
+| QR Code Component  | [Live Demo](https://qr-code-component-omega-red.vercel.app/) |
+| Blog Preview Card  | [Live Demo](blog-preview-card-lake-six.vercel.app) |
+| Social Links Profile  | [Live Demo](social-links-profile-five-rust.vercel.app) |
+| Recipe Page  | [Live Demo](recipe-page-kappa-five.vercel.app) |
+
+> **Note**: As I complete additional challenges, I will continue updating this list.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
